@@ -153,6 +153,16 @@ ZeekGuard demonstrates:
 - System design under constraints
 - This is how modern detection systems are actually built.
 
+## Sample Output
+
+### JSON Report
+![JSON Report](../screenshots/JSON%20Report.png)
+
+### Feature Catalog
+![JSON Report](../screenshots/Feature%20Catalog.png)
+
+---
+
 📜 License
 
 This demo repository is released under the MIT License.
