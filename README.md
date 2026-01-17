@@ -2,11 +2,11 @@
 
 ## Baseline-Driven Network Anomaly Detection using Zeek + Machine Learning
 
-ZeekGuard is a practical, end-to-end network anomaly detection pipeline built on Zeek logs and unsupervised ML, designed to detect suspicious behavior without relying on attack signatures or labels.
+### ZeekGuard is a practical, end-to-end network anomaly detection pipeline built on Zeek logs and unsupervised ML, designed to detect suspicious behavior without relying on attack signatures or labels.
 
-## This repository contains the public demo / community edition of ZeekGuard — focused on architecture, design, and methodology.
+#### This repository contains the public demo / community edition of ZeekGuard — focused on architecture, design, and methodology.
 
-## 🔒 The full production pipeline, training logic, detection logic, and detailed walkthrough are available in the Gumroad version.
+#### 🔒 The full production pipeline, training logic, detection logic, and detailed walkthrough are available in the Gumroad version.
 
 🚨 Problem Statement
 
