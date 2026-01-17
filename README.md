@@ -124,7 +124,7 @@ This public repo is educational and architectural, not production-ready.
 ## 🔒 Full Version (Gumroad)
 
 The full ZeekGuard package includes:
-
+```
 ✔ Complete source code
 ✔ Production-safe pipeline
 ✔ Baseline & attack profiling
@@ -132,7 +132,7 @@ The full ZeekGuard package includes:
 ✔ Step-by-step PDF walkthrough
 ✔ Design decisions & pitfalls
 ✔ Interview-ready explanations
-
+```
 👉 [[Full Version](https://ashabariq2.gumroad.com/l/buyty)]
 
 ## 🎯 Who This Is For
