@@ -156,10 +156,10 @@ ZeekGuard demonstrates:
 ## Sample Output
 
 ### JSON Report
-![JSON Report](../screenshots/JSON%20Report.png)
+![JSON Report](../ZeekGuard-Demo/screenshots/JSON%20Report.png)
 
 ### Feature Catalog
-![JSON Report](../screenshots/Feature%20Catalog.png)
+![Feature Catalog](../ZeekGuard-Demo/screenshots/FeatureCatalog.png)
 
 ---
 
