@@ -36,7 +36,8 @@ This mirrors how real SOC anomaly systems work in production.
 
 ### 🧱 Architecture Overview
 
-```Zeek Logs
+```
+Zeek Logs
    ↓
 [ Ingest & Cleaning ]
    ↓
