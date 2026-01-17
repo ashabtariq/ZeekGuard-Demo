@@ -35,7 +35,8 @@ This mirrors how real SOC anomaly systems work in production.
 - Produce human-readable detection summaries
 
 ### 🧱 Architecture Overview
-Zeek Logs
+
+```Zeek Logs
    ↓
 [ Ingest & Cleaning ]
    ↓
@@ -47,10 +48,11 @@ Zeek Logs
    ↓
 [ Detection & Reporting ]
 
-
+```
 Each phase is implemented as a clean, reproducible pipeline stage.
 
 ### 📂 Repository Structure (Demo)
+```
 zeekguard-demo/
 ├── pipeline/
 │   ├── P1_Ingest/
@@ -72,7 +74,7 @@ zeekguard-demo/
 │
 ├── README.md
 └── LICENSE
-
+```
 
 ## ⚠️ This demo repo does NOT contain the full production logic or datasets.
 
