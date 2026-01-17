@@ -8,7 +8,7 @@
 
 #### 🔒 The full production pipeline, training logic, detection logic, and detailed walkthrough are available in the Gumroad version.
 
-🚨 Problem Statement
+## 🚨 Problem Statement
 
 Traditional IDS systems:
 
